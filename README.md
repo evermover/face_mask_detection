@@ -7,7 +7,7 @@ The dataset used for this project was sourced from Kaggle. It consists of a coll
 
 To use this dataset, follow these steps:
 
-Download the dataset from Kaggle (provide the link to the dataset on Kaggle here).
+Download the dataset from Kaggle (https://www.kaggle.com/datasets/omkargurav/face-mask-dataset).
 Upload the dataset to your Google Drive or directly to Google Colab.
 Update the file paths in the code to point to the correct location of the dataset in your environment.
 
